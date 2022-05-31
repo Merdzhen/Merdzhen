@@ -30,14 +30,14 @@ My name is Merdzhen, I am a Full Stack Javascript Developer
 ---
 ### 🖥 Stack:
 
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
-[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
-[<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
-[<img align="left" alt="Bootstrap" width="32px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />][git]
+[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
+[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
+[<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
+[<img align="left" alt="Bootstrap" width="32px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
 
@@ -47,7 +47,7 @@ My name is Merdzhen, I am a Full Stack Javascript Developer
 <br/>
 <br/>
 
-- **Frontend**: JS, React, Redux, HTML5, CSS3, Bootstrap, Material UI
+- **Frontend**: HTML5, CSS3, JS, React, Redux, Bootstrap, Material UI
 - **Backend**: Node.js, Express, Handlebars
 - **Database**: PostgreSQL, Sequelize ORM
 - **And also**: Jest, Git
