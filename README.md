@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Merdzhen, I am a Full Stack Javascript Developer.
+My name is Merdzhen, I am a Full Stack Javascript Developer
+
 ---
 ### 📫 Contacts:
 
