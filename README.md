@@ -53,6 +53,7 @@ My name is Merdzhen, I am a Full Stack Javascript Developer
 - **And also**: Jest, Git
 **Plans**: Angular, TypeScript
 
+
 [linkedin]: https://www.linkedin.com/in/Merdzhen
 [whatsapp]: https://wa.me/79257165935
 [telegram]: https://t.me/merdzhen_k
