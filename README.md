@@ -51,7 +51,7 @@ My name is Merdzhen, I am a Full Stack Javascript Developer
 - **Backend**: Node.js, Express, Handlebars
 - **Database**: PostgreSQL, Sequelize ORM
 - **And also**: Jest, Git
-/n**Plans**: Angular, TypeScript
+- **Plans**: Angular, TypeScript
 
 
 [linkedin]: https://www.linkedin.com/in/Merdzhen
