@@ -28,6 +28,12 @@ My name is Merdzhen, I am a Full Stack Javascript Developer
 <br/>
 
 ---
+### 📁 My CV:
+
+- [in English](https://drive.google.com/file/d/1wnfXsB_p_AEbvpM2vm-xgGYge_eUjqGJ/view?usp=sharing)
+- [in Russian](https://drive.google.com/file/d/1EYkqhTy5A8ERSCcp4JDCfzNgl9RxjWL5/view?usp=sharing)
+
+---
 ### 🖥 Stack:
 
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
