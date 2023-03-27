@@ -28,7 +28,7 @@ My name is Merdzhen, I am a Frontent Developer
 <br/>
 
 <!-- ---
-### 📁 My CV:
+### :
 
 - [in English](https://drive.google.com/file/d/1wnfXsB_p_AEbvpM2vm-xgGYge_eUjqGJ/view?usp=sharing)
 - [in Russian](https://drive.google.com/file/d/1EYkqhTy5A8ERSCcp4JDCfzNgl9RxjWL5/view?usp=sharing)
@@ -61,6 +61,13 @@ My name is Merdzhen, I am a Frontent Developer
 - **Backend**: Node.js, Express, Handlebars
 - **Database**: PostgreSQL, Sequelize ORM
 - **And also**: Jest, Git
+
+---
+### 📁 Latest Projects:
+
+- https://lambic.ru - Lead Frontend developer
+- https://republic.forma.ru - Frontend Developer
+- https://delivery.lambic.ru - Support Frontend Developer
 
 
 [linkedin]: https://www.linkedin.com/in/Merdzhen
