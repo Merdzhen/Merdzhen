@@ -42,8 +42,10 @@ My name is Merdzhen, I am a Full Stack Javascript Developer
 [<img align="left" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][git]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
+[<img align="left" alt="Next.js" width="32px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />][git]
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
+[<img align="left" alt="Storybook" width="32px" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" />][git]
 [<img align="left" alt="Bootstrap" width="32px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />][git]
 [<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
@@ -55,11 +57,10 @@ My name is Merdzhen, I am a Full Stack Javascript Developer
 <br/>
 <br/>
 
-- **Frontend**: HTML5, CSS3, JS, React, Redux, Bootstrap, Material UI, Sass
+- **Frontend**: HTML5, CSS3, JS, TS, Next.js, React, Redux, Storybook, Bootstrap, Material UI, Sass
 - **Backend**: Node.js, Express, Handlebars
 - **Database**: PostgreSQL, Sequelize ORM
 - **And also**: Jest, Git
-- **Plans**: Angular, TypeScript
 
 
 [linkedin]: https://www.linkedin.com/in/Merdzhen
