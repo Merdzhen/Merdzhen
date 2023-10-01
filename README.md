@@ -27,7 +27,7 @@ My name is Merdzhen, I am a Frontent Developer
 <br/>
 <br/>
 
-
+---
 ### CV:
 
 <!-- --- - [in English](https://drive.google.com/file/d/1wnfXsB_p_AEbvpM2vm-xgGYge_eUjqGJ/view?usp=sharing)  -->
