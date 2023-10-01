@@ -27,12 +27,12 @@ My name is Merdzhen, I am a Frontent Developer
 <br/>
 <br/>
 
-<!-- ---
-### :
 
-- [in English](https://drive.google.com/file/d/1wnfXsB_p_AEbvpM2vm-xgGYge_eUjqGJ/view?usp=sharing)
-- [in Russian](https://drive.google.com/file/d/1EYkqhTy5A8ERSCcp4JDCfzNgl9RxjWL5/view?usp=sharing)
- -->
+### CV:
+
+<!-- --- - [in English](https://drive.google.com/file/d/1wnfXsB_p_AEbvpM2vm-xgGYge_eUjqGJ/view?usp=sharing)  -->
+- [in Russian](https://drive.google.com/file/d/1j4FHmT-JxyMUPz0SlFYd3HiC04v9bVIs/view?usp=sharing)
+
 ---
 ### 🖥 Stack:
 
@@ -40,17 +40,16 @@ My name is Merdzhen, I am a Frontent Developer
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
 [<img align="left" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][git]
-[<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
-[<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 [<img align="left" alt="Next.js" width="32px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />][git]
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
 [<img align="left" alt="Storybook" width="32px" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" />][git]
+[<img align="left" alt="Jest" width="32px" src="https://camo.githubusercontent.com/f2c80b28082b1568bf6ae3e4b999dcf6916e4f7ef611aa48efed85198ebe53a9/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67" />][git]
 [<img align="left" alt="Bootstrap" width="32px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />][git]
 [<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
-
+[<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
+[<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 
 
 <br/>
@@ -65,9 +64,9 @@ My name is Merdzhen, I am a Frontent Developer
 ---
 ### 📁 Latest Projects:
 
-- https://lambic.ru - Lead Frontend developer
-- https://republic.forma.ru - Frontend Developer
-- https://delivery.lambic.ru - Support Frontend Developer
+- https://lambic.ru (React)
+- https://republic.forma.ru (Next.js)
+- https://portland.forma.ru (React)
 
 
 [linkedin]: https://www.linkedin.com/in/Merdzhen
