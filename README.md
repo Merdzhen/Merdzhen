@@ -32,6 +32,7 @@ My name is Merdzhen, I am a Frontent Developer
 
 <!-- --- - [in English](https://drive.google.com/file/d/1wnfXsB_p_AEbvpM2vm-xgGYge_eUjqGJ/view?usp=sharing)  -->
 - [in Russian](https://drive.google.com/file/d/1j4FHmT-JxyMUPz0SlFYd3HiC04v9bVIs/view?usp=sharing)
+- [in English](https://drive.google.com/file/d/1_vnI5D0epjcAq0HnglMxPeKGTdDEbX-J/view?usp=sharing)
 
 ---
 ### 🖥 Stack:
@@ -56,10 +57,10 @@ My name is Merdzhen, I am a Frontent Developer
 <br/>
 <br/>
 
-- **Frontend**: HTML5, CSS3, JS, TS, Next.js, React, Redux, Storybook, Bootstrap, Material UI, Sass
+- **Frontend**: HTML5, CSS3, JS, TS, Next.js, React, Redux, RTK, Storybook, Bootstrap, Material UI, Sass, Jest, RTL
 - **Backend**: Node.js, Express, Handlebars
 - **Database**: PostgreSQL, Sequelize ORM
-- **And also**: Jest, Git
+- **And also**: Git
 
 ---
 ### 📁 Latest Projects:
