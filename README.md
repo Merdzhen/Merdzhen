@@ -45,7 +45,6 @@ My name is Merdzhen, I am a Frontent Developer
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
 [<img align="left" alt="Storybook" width="32px" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" />][git]
-[<img align="left" alt="Jest" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fjest-logo-thumbnail&psig=AOvVaw0YhRyQ2jYvfMTWDa6yKC-F&ust=1705748017239000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiY6tuk6YMDFQAAAAAdAAAAABAD" />][git]
 [<img align="left" alt="Bootstrap" width="32px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />][git]
 [<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
