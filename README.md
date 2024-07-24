@@ -27,12 +27,12 @@ My name is Merdzhen, I am a Frontent Developer
 <br/>
 <br/>
 
----
-### CV:
+<!-- --- -->
+<!-- ### CV: -->
 
 <!-- --- - [in English](https://drive.google.com/file/d/1wnfXsB_p_AEbvpM2vm-xgGYge_eUjqGJ/view?usp=sharing)  -->
-- [in Russian](https://drive.google.com/file/d/1j4FHmT-JxyMUPz0SlFYd3HiC04v9bVIs/view?usp=sharing)
-- [in English](https://drive.google.com/file/d/1_vnI5D0epjcAq0HnglMxPeKGTdDEbX-J/view?usp=sharing)
+<!-- - [in Russian](https://drive.google.com/file/d/1j4FHmT-JxyMUPz0SlFYd3HiC04v9bVIs/view?usp=sharing) -->
+<!-- - [in English](https://drive.google.com/file/d/1_vnI5D0epjcAq0HnglMxPeKGTdDEbX-J/view?usp=sharing) -->
 
 ---
 ### 🖥 Stack:
