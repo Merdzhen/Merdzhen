@@ -64,9 +64,8 @@ My name is Merdzhen, I am a Frontent Developer
 ---
 ### 📁 Latest Projects:
 
+- https://moscowrestaurant.ru (Next.js)
 - https://lambic.ru (React)
-- https://republic.forma.ru (Next.js)
-- https://portland.forma.ru (React)
 
 
 [linkedin]: https://www.linkedin.com/in/Merdzhen
