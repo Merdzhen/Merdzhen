@@ -48,6 +48,7 @@ My name is Merdzhen, I am a Frontent Developer
 [<img align="left" alt="Bootstrap" width="32px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />][git]
 [<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
+[<img align="left" alt="Go" width="32px" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171073.png"/>][git]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 
@@ -57,7 +58,7 @@ My name is Merdzhen, I am a Frontent Developer
 <br/>
 
 - **Frontend**: HTML5, CSS3, JS, TS, Next.js, React, Redux, RTK, Storybook, Bootstrap, Material UI, Sass, Jest, RTL
-- **Backend**: Node.js, Express, Handlebars
+- **Backend**: Node.js, Express, Handlebars, Go
 - **Database**: PostgreSQL, Sequelize ORM
 - **And also**: Git
 
