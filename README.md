@@ -58,7 +58,6 @@ My name is Merdzhen, I am a Go Developer
 
 <br/>
 <br/>
-<br/>
 
 - **Backend**: Go
 - **Database**: PostgreSQL
